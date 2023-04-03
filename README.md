@@ -1,1 +1,1 @@
-Move Google Drive to slow tests (#8163)
+Update YOLOv3 and YOLOv5 YAMLs (#7574)
