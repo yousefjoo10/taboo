@@ -1,1 +1,1 @@
-Compare plt.get_backend() in lowercase (#8409)
+Add Non-Maximum Suppression (NMS) inplace flag (#8368)
