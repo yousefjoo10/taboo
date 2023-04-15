@@ -1,1 +1,1 @@
-Add distance calculation feature in vision-eye (#8616)
+FROM pytorch/pytorch:2.2.0-cuda12.1-cudnn8-runtime (#8104)
