@@ -1,1 +1,1 @@
-Update HTTP to HTTPS (#7548)
+Update Discord and Contributing Guide URLs (#9270)
