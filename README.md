@@ -1,1 +1,1 @@
-Add brain-tumor dataset docs page (#9041)
+Pin duckdb<=0.9.2 to avoid 0.10.0 errors (#8181)
