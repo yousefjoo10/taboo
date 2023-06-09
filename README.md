@@ -1,1 +1,1 @@
-Update OpenVINO INT8 export (#7515)
+YOLOv8.1 blog, Explorer notebook and 2023 > 2024 updates (#7469)
