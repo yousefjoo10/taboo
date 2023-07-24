@@ -1,1 +1,1 @@
-Compare plt.get_backend() in lowercase (#8409)
+Fix TypeError in check_cfg() (#9245)
