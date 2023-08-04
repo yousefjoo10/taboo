@@ -1,1 +1,1 @@
-ultralytics 8.0.224 Counting and Heatmaps updates (#6855)
+Add millimeters in solutions/distance_caculation.py + object-cropping.md visuals (#7860)
