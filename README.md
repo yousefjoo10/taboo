@@ -1,1 +1,1 @@
-Cleanup Docs languages (#7865)
+Add OpenVINO Latency vs Throughput modes Docs page (#9001)
