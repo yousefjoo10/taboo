@@ -1,1 +1,1 @@
-Update Discord and Contributing Guide URLs (#9270)
+Explorer API video https://youtu.be/3VryynorQeo  (#7838)
