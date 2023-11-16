@@ -1,1 +1,1 @@
-Allow Annotator PIL.Image inputs (#8397)
+Add PR Summary step to Ultralytics Actions (#7675)
