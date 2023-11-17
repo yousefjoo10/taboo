@@ -1,1 +1,1 @@
-Update mkdocs-ultralytics-plugin>=0.0.44 (#8347)
+Fix tfjs exports for ARM64 Dockerfile (#8766)
