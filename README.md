@@ -1,1 +1,1 @@
-Model typehints Docker fix (#8306)
+Add docstrings to new HUB functions (#7576)
