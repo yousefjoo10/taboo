@@ -1,1 +1,1 @@
-Python refactorings and simplifications (#7549)
+Add YOLOv8 LibTorch C++ inference example (#7090)
