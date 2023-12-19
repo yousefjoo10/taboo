@@ -1,1 +1,1 @@
-ultralytics 8.0.230 TensorRT export hang fix (#7180)
+Add Ultralytics HUB Cloud Training banner to Docs (#8656)
