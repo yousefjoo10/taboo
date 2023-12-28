@@ -1,1 +1,1 @@
-ultralytics 8.0.237 cv2.CAP_PROP fix and in_counts and out_counts displays (#7380)
+Add instance segmentation and vision-eye mapping in Docs + Fix minor code bug in other real-world-projects (#6972)
