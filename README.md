@@ -1,1 +1,1 @@
-Add dota8.yaml and O tests (#7394)
+Add new YOLOv8 OBB model metrics (#7379)
