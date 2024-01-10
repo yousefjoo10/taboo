@@ -1,1 +1,1 @@
-Improve Coral Edge TPU guide (#8160)
+docs: update view-results-in-terminal.md (#66)
