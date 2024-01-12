@@ -1,1 +1,1 @@
-Update Colab notebook for YOLOv8.1 (#8660)
+Compare plt.get_backend() in lowercase (#8409)
