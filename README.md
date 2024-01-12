@@ -1,1 +1,1 @@
-Add line counting and circular heatmaps in Ultralytics Solutions (#7113)
+Add KaTeX support + updates to YOLOv9 model page (#8531)
