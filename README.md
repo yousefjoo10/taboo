@@ -1,1 +1,1 @@
-Compare plt.get_backend() in lowercase (#8409)
+Add line counting and circular heatmaps in Ultralytics Solutions (#7113)
