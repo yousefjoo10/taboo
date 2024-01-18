@@ -1,1 +1,1 @@
-OBB: Fix when training on zip data (#8680)
+Add yolo_bbox2segment docs reference (#7751)
