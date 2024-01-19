@@ -1,1 +1,1 @@
-Update format.yml to pull_request_target (#7460)
+Add dota8.yaml and O tests (#7394)
