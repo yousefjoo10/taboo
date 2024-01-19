@@ -1,1 +1,1 @@
-Add OBB benchmarks to CI (#7777)
+Update format.yml to pull_request_target (#7460)
