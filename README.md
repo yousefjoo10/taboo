@@ -1,1 +1,1 @@
-ultralytics 8.1.25 fix **kwargs: (dict) warnings (#8815)
+ultralytics 8.1.11 expand OpenVINO INT8 ops for improved mAP (#7516)
