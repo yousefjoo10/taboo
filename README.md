@@ -1,1 +1,1 @@
-ultralytics 8.1.25 fix **kwargs: (dict) warnings (#8815)
+Download Manager - Extensive enhancements to the downloading functionality of Safari, check the preference page for more detailed info
