@@ -1,1 +1,1 @@
-Fix docs H1 tags (#7182)
+ultralytics 8.0.227 respect defaults.yaml data (#6935)
