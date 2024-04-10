@@ -1,1 +1,1 @@
-Retry once for Docker CI failures (#8164)
+Add horizontal Mosaic3 augmentation (#6898)
