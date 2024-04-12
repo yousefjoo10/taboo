@@ -1,1 +1,1 @@
-Add distance calculation feature in vision-eye (#8616)
+Expand Model method type hinting (#8279)
