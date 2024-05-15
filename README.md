@@ -1,1 +1,1 @@
-Fix bbox2segment converter (#7814)
+ultralytics 8.1.1 Docs, Solutions and Export updates (#7545)
