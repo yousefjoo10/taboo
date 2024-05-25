@@ -1,1 +1,1 @@
-ultralytics 8.1.33 fix HUB model checks (#9153)
+Fix IS_PYTHON_3_12 bug (#9258)
