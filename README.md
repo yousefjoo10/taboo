@@ -1,1 +1,1 @@
-Update pyproject.toml and Docs (#7274)
+Add plot_images conf_thresh parameter (#8446)
