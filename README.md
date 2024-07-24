@@ -1,1 +1,1 @@
-ultralytics 8.1.12 new Results.show() and Results.save() (#8166)
+Reverse IoU threshold for NMS docs descriptions (#9151)
