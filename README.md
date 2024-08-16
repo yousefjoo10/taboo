@@ -1,1 +1,1 @@
-ultralytics 8.1.30 add advanced HUB train arguments (#9110)
+RTDETRDetectionModel TorchScript, ONNX Predict and Val support (#8818)
