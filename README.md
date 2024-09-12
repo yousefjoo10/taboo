@@ -1,1 +1,1 @@
-Fix xyxyxyxyn calculation in obb result (#8188)
+Update Docs Home and Neural Magic pages (#7243)
