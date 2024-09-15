@@ -1,1 +1,1 @@
-Update Docs Home and Neural Magic pages (#7243)
+Update CITATION.cff with cffinit corrections (#8658)
