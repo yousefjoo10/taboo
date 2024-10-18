@@ -1,1 +1,1 @@
-Fix PNNX ubuntu -> linux bug (#7050)
+New HUB Cloud Training docs page (#8174)
