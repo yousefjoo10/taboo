@@ -1,1 +1,1 @@
-Add TensorBoard Docs integrations page (#7248)
+Optimize function calls to method calls (#8507)
