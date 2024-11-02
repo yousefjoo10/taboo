@@ -1,1 +1,1 @@
-Move Explorer tests to scheduled CI (#8305)
+Add HeatMap guide in real-world-projects + Code in Solutions Directory (#6796)
